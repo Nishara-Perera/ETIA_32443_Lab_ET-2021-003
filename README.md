@@ -1,10 +1,9 @@
 # README — ETIA 32443 Lab 01
 
 ## Student Information
-- Course: ETIA 32443 - Embedded Systems and Applications  
-- Lab: Lab 01  
+- Course: ETIA 32443 - Embedded Systems and Applications   
 - Student Index: ET/2021/003 
-- Tools Used: Arduino IDE, PlatformIO, Visual Studio Code, GitHub Desktop  
+- Tools Used: PlatformIO, Visual Studio Code, GitHub Desktop  
 
 ## Objective
 To set up the embedded development environment, practice AVR register-level programming using Arduino Uno, and use GitHub for version control.
