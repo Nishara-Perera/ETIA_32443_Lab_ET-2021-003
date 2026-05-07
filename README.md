@@ -3,7 +3,7 @@
 ## Student Information
 - Course: ETIA 32443 - Embedded Systems and Applications  
 - Lab: Lab 01  
-- Student Index: YOUR_INDEX_NUMBER  
+- Student Index: ET/2021/003 
 - Tools Used: Arduino IDE, PlatformIO, Visual Studio Code, GitHub Desktop  
 
 ## Objective
