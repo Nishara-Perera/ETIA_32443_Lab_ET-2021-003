@@ -1,4 +1,4 @@
-# README — ETIA 32443 Lab 01
+# README — ETIA 32443 Lab Session
 
 ## Student Information
 - Course: ETIA 32443 - Embedded Systems and Applications   
